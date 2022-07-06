@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "array-each-slice": "^1.0.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
